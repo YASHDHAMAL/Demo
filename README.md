@@ -1,4 +1,4 @@
 # Demo
 Practice on Git Repository
 <br>
-Author - YASH
+Author - YASH DHAMAL
